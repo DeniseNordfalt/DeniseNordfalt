@@ -1,8 +1,8 @@
 <h1>Welcome to my GitHub presentation</h1>
 
 - 👋 Hi, I’m @DeniseNordfalt or just Denise is fine too!
-- 👀 I’m interested in: Cats,  books, 
-- 🌱 I’m currently learning: C#, in a continuation course.
+- 👀 I’m interested in: Programming, Cats,  books (mainly horror, scifi and fantasy), RPG, medieval reenactment, larping, and a bunch of other stuff.  
+- 🌱 I’m currently learning: C#, Python, Javascript, PHP, HTML/CSS, Sass, React. 
 - 💞️ I’m looking to collaborate on: 
 - 📫 How to reach me:
 
